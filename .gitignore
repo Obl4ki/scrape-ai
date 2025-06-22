@@ -1,0 +1,8 @@
+.env
+!example.env
+*.db
+*.sqlite
+.vscode/
+.ruff_cache/
+.venv/
+__pycache__/
